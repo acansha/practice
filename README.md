@@ -1,2 +1,2 @@
-# practice
-Contains practice and institution homework files associated with full stack development.
+# ToDoList
+Practicing to-do list.
